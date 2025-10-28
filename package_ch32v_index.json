@@ -17,7 +17,7 @@
           "url": "https://codeload.github.com/oktkas/arduino_core_ch32/zip/refs/tags/1.0.5",
           "archiveFileName": "arduino_core_ch32-1.0.5.zip",
           "checksum": "SHA-256:89AC0743D3DCA07A2F23D03E2619B0F679586A881A1689AC47DFAC788BFDE44F",
-          "size": "(1370356",
+          "size": "1370356",
           "boards": [
             {"name": "CH32X035 EVT Board"},		  
             {"name": "CH32V30x EVT Board"},
